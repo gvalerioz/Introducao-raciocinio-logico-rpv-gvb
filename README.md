@@ -22,4 +22,4 @@ Contribuições são bem-vindas! Se você tiver sugestões de novos exercícios,
 
 ## 📜 Licença
 
-Este projeto está sob a licença [MIT](./LICENSE).
+Este projeto está sob a licença [MIT](./LICENSE).# Introducao-raciocinio-logico-rpv-gvb
